@@ -12,3 +12,5 @@ Limitations: Ciphertext must be some natural number (or text converted to a nume
 
 RSA definition referenced from Language and Proofs in Algebra: An Introduction v.1.0
 Copyright Faculty of Mathematics, University of Waterloo Aug 9 2018
+
+Am looking to convert the code to Python or C and implement a prime number generator.
